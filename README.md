@@ -71,6 +71,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=STRO09&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&mode=daily&ring=FF4500&fire=FF6347&background=000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=STRO09&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF4500&icon_color=FF6347&text_color=FFFFFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=STRO09&theme=radical&hide_border=true&mode=daily&ring=FF4500&fire=FF6347&background=000000)](https://git.io/streak-stats)
 
