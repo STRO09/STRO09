@@ -72,4 +72,5 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=STRO09&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRO09&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&mode=daily&ring=FF4500&fire=FF6347&background=000000)](https://git.io/streak-stats)
+
