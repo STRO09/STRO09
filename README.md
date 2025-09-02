@@ -14,8 +14,6 @@
 ---
 ## 💻 Tech Stack  
 
-## 💻 Tech Stack  
-
 <p>
   <!-- 🟢 Backend -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -71,6 +69,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=STRO09&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF4500&icon_color=FF6347&text_color=FFFFFF)
-[![GitHub Streak](https://streak-stats.demolab.com?user=STRO09&theme=radical&hide_border=true&mode=daily&ring=FF4500&fire=FF6347&background=000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=STRO09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF4500&icon_color=FF6347&text_color=FFFFFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=STRO09&theme=tokyonight&hide_border=true&mode=daily&ring=FF4500&fire=FF6347&background=000000)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=STRO09&theme=radical)
+
 
