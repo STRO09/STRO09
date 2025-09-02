@@ -7,5 +7,5 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarjanjoted&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarjanjoted&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=STRO09&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRO09&layout=compact)
