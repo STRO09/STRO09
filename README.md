@@ -52,6 +52,8 @@
   <img src="https://img.shields.io/badge/AJAX-2C2255.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" />
 </p>
+<img src="https://img.shields.io/badge/Swing-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/GWT-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
 
 <p>
   <!-- ⚙️ Tools & Infra -->
