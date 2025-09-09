@@ -1,7 +1,7 @@
 # Hi there, I'm Sagar 👋
 
-- 🔭 I’m currently working on Java, Nextjs, and MySQL projects
-- 🌱 I’m learning Spring Boot & Hibernate
+- 🔭 I’m currently working on Java, Nextjs, and Hibernate projects
+- 🌱 I’m learning Spring Boot & Nextjs
 - 💬 Ask me about Java and web dev
 - 😺 Fun Fact: I have no problem with bugs since I live with 20 cats and a hen — I just feed the bugs to them.
 
