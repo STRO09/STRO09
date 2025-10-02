@@ -26,9 +26,8 @@
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
@@ -53,9 +52,9 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/AJAX-2C2255.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Swing-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/GWT-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swing-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GWT-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
+  </p>
 
 <p>
   <!-- ⚙️ Tools & Infra -->
