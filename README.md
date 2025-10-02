@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/Jetty-D9411E.svg?style=for-the-badge&logo=eclipsejetty&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-F37623.svg?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/cURL-005073?style=for-the-badge&logo=curl&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
