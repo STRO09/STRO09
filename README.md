@@ -18,9 +18,10 @@
 <p>
   <!-- 🟢 Backend -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP%20%2F%20Servlets-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JDBC-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" />
@@ -56,6 +57,7 @@
   <img src="https://img.shields.io/badge/Leaflet-199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/Swing-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/GWT-4285F4.svg?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-FF9900?style=for-the-badge&logo=python&logoColor=white" />
   </p>
 
 <p>
