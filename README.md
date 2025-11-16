@@ -5,7 +5,6 @@
 - 💬 Ask me about Java and web dev
 - 😺 Fun Fact: I have no problem with bugs since I live with 20 cats and a hen — I just feed the bugs to them.
 
-  ![](https://komarev.com/ghpvc/?username=STRO09)
 
 ---
 ## 🌐 Socials  
