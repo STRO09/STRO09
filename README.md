@@ -99,3 +99,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=STRO09&theme=radical)
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=STRO09&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---
