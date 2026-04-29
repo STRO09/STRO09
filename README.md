@@ -91,16 +91,14 @@
 ---
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=STRO09&theme=tokyonight&hide_border=true&mode=daily&ring=FF4500&fire=FF6347&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=STRO09&theme=tokyonight&hide_border=true&background=000000&ring=FF4500&fire=FF6347&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
 ---
 
 ## 📈 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=STRO09&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=STRO09&theme=tokyo-night&bg_color=000000&color=FFFFFF&line=FF4500&point=FF6347&area=true&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=STRO09&theme=tokyonight&no-frame=false&margin-w=4)
-
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=STRO09&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6)
