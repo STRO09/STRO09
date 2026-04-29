@@ -96,11 +96,11 @@
 ---
 
 ## 📈 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=STRO09&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=STRO09&theme=tokyo-night)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=STRO09&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=STRO09&theme=tokyonight&no-frame=false&margin-w=4)
 
 ---
