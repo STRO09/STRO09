@@ -1,9 +1,9 @@
 # Hi there, I'm Sagar 👋
 
-- 🔭 I’m currently working on Java, Nextjs, and Hibernate projects
+- 🔭 Junior Developer exploring all aspects of development.
 - 🌱 I’m learning Spring Boot & Nextjs
 - 💬 Ask me about Java and web dev
-- 😺 Fun Fact: I have no problem with bugs since I live with 20 cats and a hen — I just feed the bugs to them.
+- 😺 Fun Fact: I have no problem with bugs since I live with 20 cats and a hen — No Bugs Survive.
 
 
 ---
